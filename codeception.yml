@@ -1,0 +1,7 @@
+include:
+  - frontend
+  - backend
+paths:
+  log: log
+settings:
+  colors: false
